@@ -1,0 +1,4 @@
+http://truongkimminh.wordpress.com/2011/09/27/framework-selenium-rc-testng-reportng/
+http://www.openwritings.net/public/selenium-2/first-selenium-2-application-java
+http://www.sikuli.org/testing.html
+http://www.vntesters.com/kiem-thu-di-dong/
